@@ -1,7 +1,7 @@
 //! This example demonstrates Bevy's immediate mode drawing API intended for visual debugging.
 
 use bevy::prelude::*;
-use bevy_mod_gizmo::{prelude::Gizmos, GizmoPlugin};
+use bevy_mod_gizmos::{prelude::Gizmos, GizmoPlugin};
 
 fn main() {
     App::new()

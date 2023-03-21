@@ -1,5 +1,5 @@
 [package]
-name = "bevy_mod_gizmo"
+name = "bevy_mod_gizmos"
 version = "0.1.0"
 edition = "2021"
 

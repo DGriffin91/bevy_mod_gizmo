@@ -2,7 +2,7 @@
 use std::f32::consts::PI;
 
 use bevy::prelude::*;
-use bevy_mod_gizmo::{prelude::Gizmos, GizmoConfig, GizmoPlugin};
+use bevy_mod_gizmos::{prelude::Gizmos, GizmoConfig, GizmoPlugin};
 
 fn main() {
     App::new()
