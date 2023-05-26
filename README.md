@@ -7,6 +7,6 @@ If the gizmos plugin in the bevy main branch is updated, this plugin may also be
 
 ```toml
 [dependencies]
-bevy_mod_gizmos = { git = "https://github.com/DGriffin91/bevy_mod_gizmo", commit = "de8f06ae89f4b5a6f72956e796c8f420c3f01d70" }
+bevy_mod_gizmos = { git = "https://github.com/DGriffin91/bevy_mod_gizmo", commit = "4627028d0538b23af80f63cb53c407959c509d80" }
 bevy = "0.10"
 ```
